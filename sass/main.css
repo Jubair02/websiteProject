@@ -185,7 +185,7 @@ body {
 
 .section-feature {
   padding: 20rem 0;
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.7), rgba(41, 180, 134, 0.7)), url(../../image/nat-4.jpg);
+  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.7), rgba(41, 180, 134, 0.7)), url(../image/nat-4.jpg);
   background-size: cover;
   transform: skewY(-7deg);
   margin-top: -10rem;
@@ -211,7 +211,7 @@ body {
 }
 
 .book {
-  background-image: linear-gradient(100deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(../../image/nat-7.jpg);
+  background-image: linear-gradient(100deg, rgba(255, 255, 255, 0.9) 0%, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(../image/nat-7.jpg);
   background-size: 100%;
   height: 40rem;
   width: 90rem;
@@ -342,7 +342,7 @@ body {
 
 .header {
   height: 95vh;
-  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.801), rgba(41, 180, 134, 0.801)), url(../../image/image5.jpg);
+  background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.801), rgba(41, 180, 134, 0.801)), url(../image/image5.jpg);
   background-size: cover;
   background-position: top;
   background-position: top;
@@ -465,13 +465,13 @@ body {
   -webkit-clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
 }
 .card__side__picture--1 {
-  background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../../image/nat-5.jpg);
+  background-image: linear-gradient(to right bottom, #ffb900, #ff7730), url(../image/nat-5.jpg);
 }
 .card__side__picture--2 {
-  background-image: linear-gradient(to right bottom, #7ed56f, #28b485), url(../../image/nat-6.jpg);
+  background-image: linear-gradient(to right bottom, #7ed56f, #28b485), url(../image/nat-6.jpg);
 }
 .card__side__picture--3 {
-  background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../../image/nat-7.jpg);
+  background-image: linear-gradient(to right bottom, #2998ff, #5643fa), url(../image/nat-7.jpg);
 }
 .card__heading {
   font-size: 2.6rem;
